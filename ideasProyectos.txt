@@ -1,13 +1,14 @@
 
 Ideas proyectos basicos en español
-     curso python desde cero: https://www.youtube.com/watch?v=G5eO8PfWfkw
-     review pygame : https://www.youtube.com/watch?v=2Ilq_J_R9qU
+    * curso python desde cero: https://www.youtube.com/watch?v=G5eO8PfWfkw
+    * review pygame : https://www.youtube.com/watch?v=2Ilq_J_R9qU
     https://www.freecodecamp.org/espanol/news/25-proyectos-en-python-para-principiantes/#juego-de-la-serpiente
     https://www.freecodecamp.org/espanol/news/11-proyectos-de-python-que-los-desarrolladores-junior-pueden-crear-para-practicar/
+    https://aprendeconalf.es/docencia/python/ejercicios/
+    https://aprendeconalf.es/docencia/python/
 
 Ideas proyectos IA en español
-     curso IA en phyton: https://www.youtube.com/watch?v=TWk0YtF7pDM
-
+     * curso IA en phyton: https://www.youtube.com/watch?v=TWk0YtF7pDM
     https://geekflare.com/es/artificial-intelligence-project-ideas-for-beginners/
     https://brita.mx/15-interesantes-ideas-de-proyectos-de-machine-learning-para-principiantes
     
