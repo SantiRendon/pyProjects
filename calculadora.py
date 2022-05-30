@@ -1,4 +1,5 @@
 # Calculadora con condicionales #
+# ver https://entrenamiento-python-basico.readthedocs.io/es/latest/leccion4/condicional_if.html #
 
 a = input("Ingrese el primer numero: ")
 b = input("Ingrese el segundo numero: ")
