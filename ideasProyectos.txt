@@ -2,7 +2,7 @@
 Ideas proyectos basicos en español
     * curso python desde cero: https://www.youtube.com/watch?v=G5eO8PfWfkw
     * review pygame : https://www.youtube.com/watch?v=2Ilq_J_R9qU
-    
+
     https://www.freecodecamp.org/espanol/news/25-proyectos-en-python-para-principiantes/#juego-de-la-serpiente
     https://www.freecodecamp.org/espanol/news/11-proyectos-de-python-que-los-desarrolladores-junior-pueden-crear-para-practicar/
     https://aprendeconalf.es/docencia/python/ejercicios/
@@ -16,3 +16,5 @@ Ideas proyectos IA en español
  Información
  * https://riunet.upv.es/bitstream/handle/10251/152226/Caja%20-%20Librería%20Python%20para%20el%20aprendizaje%20y%20la%20implementación%20de%20redes%20neuronales.pdf?sequence=1
  * https://anderfernandez.com/blog/como-programar-una-red-neuronal-desde-0-en-python/#:~:text=Programando%20una%20red%20neuronal%20en,cada%20una%20de%20las%20capas.
+ * https://eprints.ucm.es/id/eprint/64564/1/BUENOPASCUALFERNANDO.pdf
+ * https://www.frro.utn.edu.ar/repositorio/catedras/quimica/5_anio/orientadora1/monograias/matich-redesneuronales.pdf
