@@ -18,3 +18,7 @@ Ideas proyectos IA en español
  * https://anderfernandez.com/blog/como-programar-una-red-neuronal-desde-0-en-python/#:~:text=Programando%20una%20red%20neuronal%20en,cada%20una%20de%20las%20capas.
  * https://eprints.ucm.es/id/eprint/64564/1/BUENOPASCUALFERNANDO.pdf
  * https://www.frro.utn.edu.ar/repositorio/catedras/quimica/5_anio/orientadora1/monograias/matich-redesneuronales.pdf
+
+Ideas proyectos de automatizacion en español
+      * 3 ideas en python: https://www.youtube.com/watch?v=sW4ScHICKtI
+
