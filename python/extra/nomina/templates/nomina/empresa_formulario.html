@@ -1,0 +1,12 @@
+<h1>Nueva Empresa</h1>
+<form action="{% url 'nomina:guardar_empresa' %}" method="post">
+    {% csrf_token %}
+    <label>nit</label> <input type="text" name="nit" />  <br/>
+    <label>nombre</label> <input type="text" name="nombre" />  <br/>
+    <label>tel</label> <input type="text" name="tel" />  <br/>
+    <label>dir</label> <input type="text" name="dir" />  <br/>
+    <br />
+    <button type="submit">Crear</button>
+    <a href="{% url 'nomina:empresas' %}" class="btn btn-secondary" role="button">Volver</a>
+</form>
+

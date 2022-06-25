@@ -1,0 +1,13 @@
+<h1>Editar Empresa "{{ data.nombre }}" {{ data.id }} </h1>
+<form action="{% url 'nomina:actualizar_empresa' %}" method="post">
+    {% csrf_token %}
+    <input type="hidden" name="id" value="{{ data.id }}" readonly="readonly"/>
+    <label>nit</label> <input type="text" name="nit" value="{{ data.nit }}" />  <br/>
+    <label>nombre</label> <input type="text" name="nombre" value="{{ data.nombre }}" />  <br/>
+    <label>tel</label> <input type="text" name="tel" value="{{ data.tel }}" />  <br/>
+    <label>dir</label> <input type="text" name="dir" value="{{ data.dir }}" />  <br/>
+    <br />
+    <button type="submit">Actualizar</button>
+    <a href="{% url 'nomina:empresas' %}" class="btn btn-secondary" role="button">Volver</a>
+</form>
+

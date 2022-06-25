@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Metrophobic
+- Font Author: Copyright 2011 The Metrophobic Project Authors (https://github.com/googlefonts/MetrophobicFont), with Reserved Font Name 'Metrophobic'.
+- Font Source: http://fonts.gstatic.com/s/metrophobic/v17/sJoA3LZUhMSAPV_u0qwiAT-J737FPEEL.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
