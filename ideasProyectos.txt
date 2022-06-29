@@ -4,9 +4,11 @@ Ideas proyectos basicos en español
     https://www.freecodecamp.org/espanol/news/25-proyectos-en-python-para-principiantes/#juego-de-la-serpiente
     https://www.freecodecamp.org/espanol/news/11-proyectos-de-python-que-los-desarrolladores-junior-pueden-crear-para-practicar/
     https://aprendeconalf.es/docencia/python/ejercicios/
+    https://www.mclibre.org/consultar/python/index.html
 
  Información 
  * https://aprendeconalf.es/docencia/python/
+ * https://pypi.org
 
 Ideas proyectos IA en español
      * curso IA en phyton: https://www.youtube.com/watch?v=TWk0YtF7pDM
